@@ -1,3 +1,4 @@
 {
-  status: "success"
+  "logged_in": 1,
+  "error": ""
 }
